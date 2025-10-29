@@ -1,2 +1,2 @@
-# Linear_Regression_implementation
-Performed linear regression on height-weight dataset and predicted the height of a person for given weight
+# Machine Learning Models
+I'm performing ML models on different datasets
